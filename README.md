@@ -37,7 +37,10 @@ A simple Node.js application that generates a **QR code image** from any URL you
 
 7. Open or scan the generated qr_img.png file using your phone camera 📱 — it will automatically open the website you entered.
 
-   ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R4M3p4a2I/giphy.gif)
+## 
+
+![QR Code Generator Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2o5Z3FhN2RncGFuc3YzdTRydjExcXJuYjhsY3o5ZG1vMHBiMHIwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdyYrlp0L2Gc3AHNSh/giphy.gif)
+
 
    
 
